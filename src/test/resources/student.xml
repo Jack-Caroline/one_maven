@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<student>
-    <name>小明</name>
-    <age>23</age>
-    <gender>男</gender>
-</student>
+<students>
+    <student>
+        <Name>小明</Name>
+        <Age>23</Age>
+        <Gender>男</Gender>
+    </student>
+    <student>
+        <Name>小红</Name>
+        <Age>24</Age>
+        <Gender>男</Gender>
+    </student>
+    <student>
+        <Name>小白</Name>
+        <Age>25</Age>
+        <Gender>女</Gender>
+    </student>
+</students>
